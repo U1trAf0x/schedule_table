@@ -1,0 +1,20 @@
+const schedule = [
+    { "group" : "00", "day" : "1", "subject" : "Выш. мат.",   "teacher": "Sam",  "location": "Здание №1"},
+    { "group" : "00", "day" : "2", "subject" : "Информатика", "teacher": "Mike", "location": "Здание №3"},
+    { "group" : "00", "day" : "3", "subject" : "Физика",      "teacher": "Rik",  "location": "Здание №4"},
+    { "group" : "01", "day" : "1", "subject" : "Информатика", "teacher": "Sam",  "location": "Здание №1"},
+    { "group" : "02", "day" : "1", "subject" : "Физ-ра",      "teacher": "Sam",  "location": "Здание №1"},
+    { "group" : "03", "day" : "1", "subject" : "Физика",      "teacher": "Sam",  "location": "Здание №1"},
+    { "group" : "04", "day" : "1", "subject" : "Выш. мат.",   "teacher": "Sam",  "location": "Здание №1"},
+    { "group" : "05", "day" : "1", "subject" : "Информатика", "teacher": "Sam",  "location": "Здание №1"},
+    { "group" : "06", "day" : "1", "subject" : "Физ-ра",      "teacher": "Sam",  "location": "Здание №1"},
+    { "group" : "07", "day" : "1", "subject" : "Физика",      "teacher": "Sam",  "location": "Здание №1"},
+    { "group" : "10", "day" : "1", "subject" : "Выш. мат.",   "teacher": "Sam",  "location": "Здание №2"},
+    { "group" : "11", "day" : "1", "subject" : "Информатика", "teacher": "Sam",  "location": "Здание №2"},
+    { "group" : "12", "day" : "1", "subject" : "Физ-ра",      "teacher": "Sam",  "location": "Здание №2"},
+    { "group" : "13", "day" : "1", "subject" : "Физика",      "teacher": "Sam",  "location": "Здание №2"},
+    { "group" : "14", "day" : "1", "subject" : "Выш. мат.",   "teacher": "Sam",  "location": "Здание №2"},
+    { "group" : "15", "day" : "1", "subject" : "Информатика", "teacher": "Sam",  "location": "Здание №2"},
+    { "group" : "16", "day" : "1", "subject" : "Физ-ра",      "teacher": "Sam",  "location": "Здание №2"},
+    { "group" : "17", "day" : "1", "subject" : "Физика",      "teacher": "Sam",  "location": "Здание №2"}
+]
